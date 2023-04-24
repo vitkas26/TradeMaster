@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "646359002698",
+    "project_id": "trademaster-f7606",
+    "storage_bucket": "trademaster-f7606.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:646359002698:android:28e352ef34af8def6500b3",
+        "android_client_info": {
+          "package_name": "com.crypto.trademaster"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "646359002698-47e13paf68tr3v9nm1sjfq79tkd06h6c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqNv-vUW_6OHsCqk2F38TqZyhUw0uKVlA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "646359002698-47e13paf68tr3v9nm1sjfq79tkd06h6c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
