@@ -4,4 +4,7 @@
     <string name="login">Вход</string>
     <string name="loginBy">Войти с помощью</string>
     <string name="login_textTv">E-mail или телефон</string>
+    <!--Facebook-->
+    <string name="facebook_app_id">576673807597500</string>
+    <string name="facebook_client_token">c9dda1a10225d704a65d839ed640d854</string>
 </resources>

@@ -87,6 +87,9 @@ dependencies {
     def activity_version = "1.7.1"
     implementation "androidx.activity:activity-ktx:$activity_version"
 
+    //Facebook Authentication
+    implementation 'com.facebook.android:facebook-login:latest.release'
+
 }
 
 kapt {
