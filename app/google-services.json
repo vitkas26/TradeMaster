@@ -14,7 +14,15 @@
       },
       "oauth_client": [
         {
-          "client_id": "646359002698-47e13paf68tr3v9nm1sjfq79tkd06h6c.apps.googleusercontent.com",
+          "client_id": "646359002698-m921vrh1i7t35pf97mg50ei7p3mu5n9c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.crypto.trademaster",
+            "certificate_hash": "a79b62c794dc505d5bcc3bceff57542e4053f67d"
+          }
+        },
+        {
+          "client_id": "646359002698-c7g9c62esj037061s5dbbn5or5076eln.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
